@@ -6,6 +6,7 @@ Solution of freeCodeCamp problem.
 
 My solution: 
 
+[![Run on Repl.it](https://repl.it/badge/github/ArtemKhadris/freeCodeCamp-Polygon-Area-Calculator)](https://repl.it/github/ArtemKhadris/freeCodeCamp-Polygon-Area-Calculator)
 
 In this project you will use object oriented programming to create a Rectangle class and a Square class. The Square class should be a subclass of Rectangle and inherit methods and attributes.
 
